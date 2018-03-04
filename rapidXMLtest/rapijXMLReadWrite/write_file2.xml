@@ -1,0 +1,15 @@
+<root>
+	<Devices>
+		<Monitor>LG</Monitor>
+		<MotherBoard>Gigabyte</MotherBoard>
+		<MemoryBar>Kingston</MemoryBar>
+		<Graphics>MSI</Graphics>
+		<Hardisk>WD</Hardisk>
+	</Devices>
+	<job>
+		<name>CSDN</name>
+		<website>http://blog.csdn.net/hellokandy</website>
+		<addr>Guangzhou China</addr>
+	</job>
+</root>
+

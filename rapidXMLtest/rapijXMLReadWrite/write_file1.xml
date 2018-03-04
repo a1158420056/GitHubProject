@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<config>
+	<color>
+		<red>88</red>
+		<green>108</green>
+		<blue>128</blue>
+		<alpha>255</alpha>
+	</color>
+	<size>
+		<x>1024</x>
+		<y>768</y>
+	</size>
+	<mode fullscreen="false">screen mode</mode>
+</config>
+
